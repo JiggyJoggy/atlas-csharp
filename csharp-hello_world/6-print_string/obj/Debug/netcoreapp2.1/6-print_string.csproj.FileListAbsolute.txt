@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.deps.json
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.dll
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.pdb
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.dll
+/home/jagger/atlas-csharp/csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.pdb
