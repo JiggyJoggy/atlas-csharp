@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp2.1/3-print_alphabt.deps.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp2.1/3-print_alphabt.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp2.1/3-print_alphabt.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp2.1/3-print_alphabt.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp2.1/3-print_alphabt.pdb
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp2.1/3-print_alphabt.pdb
