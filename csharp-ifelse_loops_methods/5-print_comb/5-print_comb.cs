@@ -10,7 +10,7 @@ namespace _5_print_comb
             {
                 if (index == 99)
                 {
-                    Console.WriteLine("99");
+                    Console.WriteLine($"{index}");
                     break;
                 }
                 Console.Write($"{index:D2}, ");
