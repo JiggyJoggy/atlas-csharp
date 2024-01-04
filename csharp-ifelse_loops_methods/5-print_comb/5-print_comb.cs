@@ -8,13 +8,9 @@ namespace _5_print_comb
         {
             for (int index = 0; index <= 99; index++)
             {
-                if (index == 99)
-                {
-                    Console.Write("99");
-                    break;
-                }
                 Console.Write($"{index:D2}, ");
             }
+            Console.Write("99");
         }
     }
 }
