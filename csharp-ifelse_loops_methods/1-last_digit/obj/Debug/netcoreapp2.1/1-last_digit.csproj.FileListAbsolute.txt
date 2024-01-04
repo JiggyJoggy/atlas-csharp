@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.deps.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp2.1/1-last_digit.pdb
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp2.1/1-last_digit.pdb
