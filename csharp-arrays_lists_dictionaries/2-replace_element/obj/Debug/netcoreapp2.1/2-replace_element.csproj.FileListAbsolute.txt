@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.deps.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.pdb
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.pdb
