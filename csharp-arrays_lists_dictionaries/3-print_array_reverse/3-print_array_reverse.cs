@@ -9,7 +9,7 @@ class Array
             Console.WriteLine();
             return;
         }
-        for (int index = array.Length - 1; index > 0; index--)
+        for (int index = array.Length - 1; index >= 0; index--)
         {
             if (index == 0)
             {
