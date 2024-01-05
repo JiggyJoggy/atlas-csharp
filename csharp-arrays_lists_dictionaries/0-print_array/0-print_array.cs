@@ -4,6 +4,8 @@ class Array
 {
     public static int[] CreatePrint(int size)
     {
+        int[] array = new int[size];
+
         if (size == 0)
         {
             Console.WriteLine();
@@ -15,13 +17,11 @@ class Array
         }
         else
         {
-            int[] array = new int[size];
-
             for (int index = 0; index < size; index++)
             {
                 array[index] = index;
             }
-            return array;
         }
+        return array;
     }
 }
