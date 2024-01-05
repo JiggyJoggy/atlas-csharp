@@ -6,16 +6,16 @@ class Array
     {
         int[] array = new int[size];
 
-        if (size == 0)
-        {
-            Console.WriteLine();
-        }
-        else if (size < 0)
+        if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
             return null;
         }
-        else
+        if (size == 0)
+        {
+            Console.WriteLine();
+        }
+        if (size > 0)
         {
             for (int index = 0; index < size; index++)
             {
