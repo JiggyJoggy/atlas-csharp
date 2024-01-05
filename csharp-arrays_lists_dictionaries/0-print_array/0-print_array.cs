@@ -20,7 +20,16 @@ class Array
             for (int index = 0; index < size; index++)
             {
                 array[index] = index;
+                if (index == size - 1)
+                {
+                    Console.Write($"{array[index]}");
+                }
+                else
+                {
+                    Console.Write($"{array[index]} ");
+                }
             }
+            Console.WriteLine();
         }
         return array;
     }
