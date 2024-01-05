@@ -6,6 +6,8 @@ namespace _0_print_array
     {
         public static int[] CreatePrint(int size)
         {
+            int[] array = new int[size];
+
             if (size == 0)
             {
                 Console.WriteLine();
@@ -17,8 +19,6 @@ namespace _0_print_array
             }
             else
             {
-                int[] array = new int[size];
-
                 for (int index = 0; index < size; index++)
                 {
                     array[index] = index;
