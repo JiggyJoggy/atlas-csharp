@@ -9,7 +9,7 @@ class Array
             Console.WriteLine();
             return;
         }
-        for (int index = array.Length - 1; index > array.Length; index--)
+        for (int index = array.Length - 1; index > 0; index--)
         {
             if (index == 0)
             {
@@ -19,7 +19,7 @@ class Array
             {
                 Console.Write($"{array[index]} ");
             }
-            Console.WriteLine();
         }
+        Console.WriteLine();
     }
 }
