@@ -23,8 +23,8 @@ namespace _0_print_array
                 {
                     array[index] = index;
                 }
-                return array;
             }
+            return array;
         }
     }
 }
