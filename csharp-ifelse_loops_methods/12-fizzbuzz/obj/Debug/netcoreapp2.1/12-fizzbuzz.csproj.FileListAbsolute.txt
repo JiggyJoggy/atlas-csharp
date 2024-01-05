@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.deps.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.pdb
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/jagger/atlas-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.pdb
