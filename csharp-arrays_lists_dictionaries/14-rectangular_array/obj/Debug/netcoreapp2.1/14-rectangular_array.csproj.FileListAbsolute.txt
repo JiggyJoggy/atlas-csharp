@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.deps.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.pdb
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.pdb
