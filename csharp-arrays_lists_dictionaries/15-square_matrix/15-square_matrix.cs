@@ -12,7 +12,7 @@ class Matrix
         {
             for (int x = 0; x < cols; x++)
             {
-                newMatrix[i, x] = myMatrix[i, x] * myMatrix[i, x];
+                newMatrix[i, x] = (int)Math.Pow(myMatrix[i, x], 2);
             }
         }
         return newMatrix;
