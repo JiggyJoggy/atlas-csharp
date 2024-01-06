@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.deps.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.pdb
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.dll
+/home/jagger/atlas-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.pdb
