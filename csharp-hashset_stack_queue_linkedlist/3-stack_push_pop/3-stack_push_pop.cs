@@ -9,14 +9,13 @@ class MyStack
         Console.WriteLine($"Number of items: {aStack.Count}");
 
         // Checking what item is at the top of aStack
-        var firstItem = aStack.Peek();
         if (aStack.Count == 0)
         {
             Console.WriteLine("Stack is empty");
         }
         else
         {
-            Console.WriteLine($"Top item: {firstItem}");
+            Console.WriteLine($"Top item: {aStack.Peek()}");
         }
 
         // Searching to see if it's in aStack
