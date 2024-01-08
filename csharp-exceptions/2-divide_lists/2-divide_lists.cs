@@ -6,31 +6,33 @@ class List
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
         int sum = 0;
+        bool checkedAlready = false;
         List<int> newList = new List<int>();
         try
         {
             for (int i = 0; i < listLength; i++)
             {
-                for (int j = 0; j < listLength; i++)
+                try
                 {
-                    if (list1[i] == 0 || list2[i] == 0)
+                    if (list2[i] == 0 || list1[i] == 0)
                     {
-                        sum = 0;
-                        newList.Add(sum);
+                        newList.Add(0);
+                        throw new DivideByZeroException();
                     }
-                    else
+                    sum = list1[i] / list2[i];
+                    newList.Add(sum);
+                }
+                catch
+                {
+                    if (!checkedAlready)
                     {
-                        sum = list1[i] / list2[i];
-                        newList.Add(sum);
+                        Console.WriteLine("Cannot divide by zero");
+                        checkedAlready = true;
                     }
                 }
             }
         }
-        catch
-        {
-            Console.WriteLine("Cannot divide by zero");
-        }
-        finally
+        catch (IndexOutOfRangeException)
         {
             Console.WriteLine("Out of Range");
         }
