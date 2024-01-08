@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp2.1/7-linkedlist_add.deps.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp2.1/7-linkedlist_add.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp2.1/7-linkedlist_add.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp2.1/7-linkedlist_add.dll
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp2.1/7-linkedlist_add.pdb
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.dll
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp2.1/7-linkedlist_add.pdb
