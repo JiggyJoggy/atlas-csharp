@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp2.1/0-safe_list_print.deps.json
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp2.1/0-safe_list_print.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp2.1/0-safe_list_print.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp2.1/0-safe_list_print.dll
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp2.1/0-safe_list_print.pdb
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.dll
+/home/jagger/atlas-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp2.1/0-safe_list_print.pdb
