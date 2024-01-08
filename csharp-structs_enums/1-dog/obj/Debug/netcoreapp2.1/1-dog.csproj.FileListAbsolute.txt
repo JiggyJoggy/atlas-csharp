@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.deps.json
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.dll
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.pdb
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.dll
+/home/jagger/atlas-csharp/csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.pdb
