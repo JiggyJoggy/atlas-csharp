@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.deps.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/home/jagger/atlas-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
