@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.deps.json
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.dll
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.pdb
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.dll
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.pdb
+/home/jagger/atlas-csharp/csharp-classes/1-enemy/bin/Debug/netcoreapp2.1/1-enemy.xml
