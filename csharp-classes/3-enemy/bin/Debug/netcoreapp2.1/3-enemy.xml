@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Public class Zombie with health
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            Zombie's private int health
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Zombie object with setting health to 0
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Sets health to the value given
+            Throws an ArgumentException if health is less than 0
+            </summary>
+            <param name="value"></param>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            Return Zombie's health
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
