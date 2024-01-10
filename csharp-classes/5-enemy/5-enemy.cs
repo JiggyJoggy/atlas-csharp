@@ -59,6 +59,11 @@ namespace Enemies
             return health;
         }
 
+        /// <summary>
+        /// Overrides ToString to print out in stdout format
+        /// for Zombie object's attributes
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return $"Zombie Name: {name} / Total Health: {health}";

@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.dll
 /home/jagger/atlas-csharp/csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.pdb
+/home/jagger/atlas-csharp/csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.xml
