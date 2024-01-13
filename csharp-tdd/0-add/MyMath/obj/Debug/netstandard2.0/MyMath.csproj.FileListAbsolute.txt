@@ -1,0 +1,10 @@
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/home/jagger/atlas-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

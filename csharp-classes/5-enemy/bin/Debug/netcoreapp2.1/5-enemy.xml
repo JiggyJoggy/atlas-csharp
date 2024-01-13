@@ -41,5 +41,12 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary>
+            Overrides ToString to print out in stdout format
+            for Zombie object's attributes
+            </summary>
+            <returns></returns>
+        </member>
     </members>
 </doc>
