@@ -14,5 +14,9 @@ namespace MyMath.Tests
         {
             Assert.Pass();
         }
+        [Test]
+        {
+            Assert.Fail("Test Run Failed.");
+        }
     }
 }
