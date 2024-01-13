@@ -4,35 +4,35 @@ namespace MyMath.Tests
 {
     public class Tests
     {
+        int[,] testMatrix;
         [SetUp]
         public void Setup()
         {
+            testMatrix = new int[2, 2];
+            testMatrix[0, 0] = 2;
+            testMatrix[0, 1] = 4
+            testMatrix[1, 0] = 6
+            testMatrix[1, 1] = 8;
         }
 
-        private static object[] TestCases =
+        [Test]
+        public void Test_Matrix_Output(int value)
         {
-            new object[] { new int[,] { { 2, 4, 6 }, { 8, 10, 12 } }, 2, new int[,] { { 1, 2, 3 }, { 4, 5, 6 } } }
-        };
+            int[,] createdMatrix = MyMath.Matrix.Divide(testMatrix, value);
+            
+            Assert.AreEqual(2 / value, createdMatrix[0, 0]);
+        }
 
         [Test]
-        [TestCaseSource(nameof(TestCases))]
-        public void Test_Matrix_Output(int[,] matrix, int num, int[,] expectedMatrix)
+        public void Test_Null_Return()
         {
-            int[,] createdMatrix = MyMath.Matrix.Divide(matrix, num);
+            Assert.IsNull(MyMath.Matrix.Divide(null, 2));
+        }
 
-            int rows = expectedMatrix.GetLength(0);
-            int cols = expectedMatrix.GetLength(1);
-
-            Assert.AreEqual(rows, createdMatrix.GetLength(0));
-            Assert.AreEqual(cols, createdMatrix.GetLength(1));
-
-            for (int i = 0; i < rows; i++)
-            {
-                for (int j = 0; j < cols; j++)
-                {
-                    Assert.AreEqual(expectedMatrix[i, j], createdMatrix[i, j]);
-                }
-            }
+        [Test]
+        public void Test_Divide_By_Zero()
+        {
+            Assert.IsNull(MyMath.Matrix.Divide(testMatrix, 0));
         }
     }
 }
