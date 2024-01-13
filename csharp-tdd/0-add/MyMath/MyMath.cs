@@ -6,7 +6,8 @@ namespace MyMath
     {
         public static int Add(int a, int b)
         {
-            return a + b;
+            int sum = a + b;
+            return sum;
         }
     }
 }
