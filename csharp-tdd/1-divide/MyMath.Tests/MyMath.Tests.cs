@@ -21,18 +21,21 @@ namespace MyMath.Tests
             int[,] createdMatrix = MyMath.Matrix.Divide(testMatrix, value);
             
             Assert.AreEqual(2 / value, createdMatrix[0, 0]);
+            Assert.Pass()
         }
 
         [Test]
         public void Test_Null_Return()
         {
             Assert.IsNull(MyMath.Matrix.Divide(null, 2));
+            Assert.Pass()
         }
 
         [Test]
         public void Test_Divide_By_Zero()
         {
             Assert.IsNull(MyMath.Matrix.Divide(testMatrix, 0));
+            Assert.Pass()
         }
     }
 }
