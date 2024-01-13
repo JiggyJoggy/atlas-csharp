@@ -22,14 +22,11 @@ namespace MyMath
                     {
                         try
                         {
-                            if (num == 0)
-                            {
-                                throw new DivideByZeroException("Num cannot be 0");
-                            }
                             newMatrix[i, j] = matrix[i, j] / num;
                         }
                         catch (DivideByZeroException)
                         {
+                            Console.WriteLine("Num cannot be 0");
                             return null;
                         }
                     }
