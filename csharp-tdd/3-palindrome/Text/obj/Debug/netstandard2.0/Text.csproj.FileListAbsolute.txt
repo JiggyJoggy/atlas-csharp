@@ -1,0 +1,10 @@
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.xml
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.deps.json
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.dll
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.pdb
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.dll
+/home/jagger/atlas-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.pdb
