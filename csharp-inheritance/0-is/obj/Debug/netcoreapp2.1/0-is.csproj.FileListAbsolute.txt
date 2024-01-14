@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.dll
 /home/jagger/atlas-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.xml
