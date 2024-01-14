@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System.Text;
 
 namespace Text.Tests
 {
@@ -10,9 +11,12 @@ namespace Text.Tests
         }
 
         [Test]
-        public void Test1()
+        [TestCase()]
+        public void Test_Text_Output(string s, string expectedString)
         {
-            Assert.Pass();
+            string word = Text.Str.IsPalindrome(s);
+
+            Assert.AreEqual(expectedString, word);
         }
     }
 }
