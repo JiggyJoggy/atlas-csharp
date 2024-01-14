@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Text
 {
@@ -10,9 +11,19 @@ namespace Text
             {
                 return true;
             }
-            for (int i = 0; i < s.Length / 2; i++)
+            StringBuilder filteredString = new StringBuilder();
+            
+            foreach (char c in s)
             {
-                if (s[i] != s[s.Length - i - 1])
+                if (char.IsLetterOrDigit(c))
+                {
+                    filteredString.Append(char.ToLower(c));
+                }
+            }
+
+            for (int i = 0; i < filteredString.Length / 2; i++)
+            {
+                if (filteredString[i] != filteredString[filteredString.Length - i - 1])
                 {
                     return false;
                 }
