@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-type_get</name>
+    </assembly>
+    <members>
+        <member name="M:Obj.Print(System.Object)">
+            <summary>
+            Method that prints out all 
+            available properties and methods of an object
+            </summary>
+            <param name="myObj"></param>
+        </member>
+    </members>
+</doc>
