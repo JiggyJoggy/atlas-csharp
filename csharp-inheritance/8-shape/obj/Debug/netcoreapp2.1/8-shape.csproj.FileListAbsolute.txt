@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.deps.json
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.dll
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.dll
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.xml
