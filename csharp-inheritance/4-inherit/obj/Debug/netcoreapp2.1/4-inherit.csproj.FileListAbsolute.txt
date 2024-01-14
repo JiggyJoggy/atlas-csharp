@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/bin/Debug/netcoreapp2.1/4-inherit.deps.json
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/bin/Debug/netcoreapp2.1/4-inherit.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/bin/Debug/netcoreapp2.1/4-inherit.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/bin/Debug/netcoreapp2.1/4-inherit.dll
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/bin/Debug/netcoreapp2.1/4-inherit.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.dll
+/home/jagger/atlas-csharp/csharp-inheritance/4-inherit/obj/Debug/netcoreapp2.1/4-inherit.pdb
