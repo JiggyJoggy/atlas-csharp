@@ -4,6 +4,11 @@ using System.Reflection;
 
 class Obj
 {
+    /// <summary>
+    /// Method that prints out all 
+    /// available properties and methods of an object
+    /// </summary>
+    /// <param name="myObj"></param>
     public static void Print(object myObj)
     {
         Type objType = myObj.GetType();
