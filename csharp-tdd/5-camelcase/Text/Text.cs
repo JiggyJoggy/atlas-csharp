@@ -6,7 +6,17 @@ namespace Text
     {
         public static int CamelCase(string s)
         {
-            int counter = 1;
+            int counter = 0;
+
+            if (s == "")
+            {
+                return counter;
+            }
+            else
+            {
+                counter = 1;
+            }
+
             foreach (char c in s)
             {
                 if (char.IsUpper(c))
