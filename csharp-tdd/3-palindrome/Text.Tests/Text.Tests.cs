@@ -11,12 +11,16 @@ namespace Text.Tests
         }
 
         [Test]
-        [TestCase()]
-        public void Test_Text_Output(string s, string expectedString)
+        [TestCase("level", true)]
+        [TestCase("Racecar", true)]
+        [TestCase("taco cat", true)]
+        [TestCase("A man, a plan, a canal: Panama", true)]
+        [TestCase("", true)]
+        public void Test_Text_Output(string s, bool expectedBool)
         {
-            string word = Text.Str.IsPalindrome(s);
+            bool word = Text.Str.IsPalindrome(s);
 
-            Assert.AreEqual(expectedString, word);
+            Assert.AreEqual(expectedBool, word);
         }
     }
 }
