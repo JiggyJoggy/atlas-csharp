@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary>
+            A method that returns True if the object is an instance of a class that inherits from the specified class
+            otherwise return False.
+            The object must be a subclass; your method cannot return True if the object is an instance of the base class.
+            </summary>
+            <param name="derivedType"></param>
+            <param name="baseType"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
