@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.deps.json
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.dll
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.dll
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.xml
