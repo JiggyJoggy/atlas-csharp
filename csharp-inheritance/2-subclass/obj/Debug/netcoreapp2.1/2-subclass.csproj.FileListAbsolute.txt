@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.deps.json
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.dll
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.pdb
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.dll
+/home/jagger/atlas-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.pdb
