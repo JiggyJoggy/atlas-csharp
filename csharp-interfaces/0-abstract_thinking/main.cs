@@ -4,15 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        SoftwareEngineer engineer = new SoftwareEngineer();
+        TestObject test = new TestObject();
 
-        engineer.name = "Betty";
-
-        Console.WriteLine(engineer.ToString());
+        Console.WriteLine(test.ToString());
     }
 }
 
-class SoftwareEngineer : Base
+class TestObject : Base
 {
     // Empty class
 }
