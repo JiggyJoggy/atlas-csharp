@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.deps.json
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.dll
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.dll
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.xml
