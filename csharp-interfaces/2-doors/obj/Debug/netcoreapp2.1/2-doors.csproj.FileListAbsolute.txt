@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.deps.json
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.dll
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.dll
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.pdb
