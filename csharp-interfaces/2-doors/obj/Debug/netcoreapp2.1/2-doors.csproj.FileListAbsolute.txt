@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.dll
 /home/jagger/atlas-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.xml

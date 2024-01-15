@@ -33,8 +33,12 @@ interface ICollectable
 
 class Door : Base, IInteractive
 {
+    public Door(string newName = "Door")
+    {
+        name = newName;
+    }
     public void Interact()
     {
-        
+        Console.WriteLine($"You try to open the {name}. It's locked."); 
     }
 }
