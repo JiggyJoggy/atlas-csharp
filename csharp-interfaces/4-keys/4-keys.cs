@@ -107,7 +107,7 @@ class Key : Base, ICollectable
         if (isCollected == false)
         {
             isCollected = true;
-            Console.WriteLine($"You pick up the {name}");
+            Console.WriteLine($"You pick up the {name}.");
         }
         else if (isCollected == true)
         {
