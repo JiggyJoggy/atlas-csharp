@@ -4,13 +4,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Decoration coffeeMug = new Decoration("Coffee Mug", 2);
+        Decoration figurine = new Decoration("Expensive Figurine", isQuestItem: true);
 
-        Console.WriteLine(coffeeMug.ToString());
+        Console.WriteLine(figurine.ToString());
 
-        coffeeMug.Interact();
-        coffeeMug.Break();
-        coffeeMug.Break();
-        coffeeMug.Interact();
+        figurine.Interact();
+        figurine.Break();
+        figurine.Break();
+
+        figurine.name = "Cheap Figurine";
+        figurine.durability = 2;
+        figurine.isQuestItem = false;
+
+        figurine.Interact();
+        figurine.Break();
     }
 }
