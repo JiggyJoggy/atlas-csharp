@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.deps.json
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.dll
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.dll
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.xml
