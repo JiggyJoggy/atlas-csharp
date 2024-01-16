@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.deps.json
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.dll
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.dll
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.pdb
+/home/jagger/atlas-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.xml
