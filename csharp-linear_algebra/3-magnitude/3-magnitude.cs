@@ -6,11 +6,15 @@ class VectorMath
     {
         if (vector.Length == 2)
         {
-            return Math.Sqrt(vector[0] * vector[0] + vector[1] * vector[1]);
+            double sum = Math.Sqrt(vector[0] * vector[0] + vector[1] * vector[1]);
+
+            return Math.Round(sum, 2);
         }
         else if (vector.Length == 3)
         {
-            return Math.Sqrt(vector[0] * vector[0] + vector[1] * vector[1] + vector[2] * vector[2]);
+            double sum = Math.Sqrt(vector[0] * vector[0] + vector[1] * vector[1] + vector[2] * vector[2]);
+
+            return Math.Round(sum, 2);
         }
         else
         {
