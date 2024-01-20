@@ -7,7 +7,7 @@ class MatrixMath
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
 
-        if (rows > 1 && cols > 1)
+        if ((rows <= 3 && cols <=3) && (rows > 1 && cols > 1))
         {
             double[,] sum = new double[rows, cols];
 

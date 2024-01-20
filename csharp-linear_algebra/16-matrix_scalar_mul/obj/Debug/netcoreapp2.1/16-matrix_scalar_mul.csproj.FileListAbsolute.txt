@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.dll
 /home/jagger/atlas-csharp/csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.xml
