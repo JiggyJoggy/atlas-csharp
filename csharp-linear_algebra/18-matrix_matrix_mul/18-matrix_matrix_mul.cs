@@ -10,13 +10,13 @@ class MatrixMath
         int rows1 = matrix2.GetLength(0);
         int cols1 = matrix2.GetLength(1);
 
-        if (cols != rows1)
+        if ((rows > 0 && cols1 > 0) && (rows1 == cols))
         {
             double[,] allSum = new double[rows, cols1];
 
             for (int i = 0; i < rows; i++)
             {
-                for (int j = 0; j < cols2; j++)
+                for (int j = 0; j < cols1; j++)
                 {
                     double sum = 0.0;
 
@@ -24,9 +24,10 @@ class MatrixMath
                     {
                         sum += matrix1[i, k] * matrix2[k, j];
                     }
+                    allSum[i, j] = sum;
                 }
             }
-            return allSum[i, j] = sum;
+            return allSum;
         }
         else
         {
