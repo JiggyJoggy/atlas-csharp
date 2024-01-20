@@ -1,0 +1,11 @@
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.deps.json
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.dll
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.dll
+/home/jagger/atlas-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.pdb
