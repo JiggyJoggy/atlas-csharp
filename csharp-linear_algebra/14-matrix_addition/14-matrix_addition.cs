@@ -22,7 +22,7 @@ class MatrixMath
         }
         else
         {
-            double[,] badMatrix = new double[-1]
+            double[,] badMatrix = new double[-1];
             return badMatrix;
         }
     }
