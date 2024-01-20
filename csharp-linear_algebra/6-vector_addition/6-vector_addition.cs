@@ -11,7 +11,7 @@ class VectorMath
 
             double[] sum = [sumOne, sumTwo];
 
-            return Math.Round(sum, 2);
+            return sum;
         }
         else if (vector1.Length && vector2.Length == 3)
         {
@@ -21,7 +21,7 @@ class VectorMath
 
             double[] sum = [sumOne, sumTwo, sumThree];
 
-            return Math.Round(sum, 2);
+            return sum;
         }
         else
         {
