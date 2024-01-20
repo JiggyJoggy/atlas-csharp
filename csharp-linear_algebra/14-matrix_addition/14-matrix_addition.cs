@@ -4,8 +4,8 @@ class MatrixMath
 {
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
-        double rows = matrix1.GetLength(0);
-        double cols = matrix1.GetLength(1);
+        int rows = matrix1.GetLength(0);
+        int cols = matrix1.GetLength(1);
 
         if (rows == matrix2.GetLength(0) && cols == matrix2.GetLength(1))
         {
@@ -22,7 +22,7 @@ class MatrixMath
         }
         else
         {
-            double[,] badMatrix = new double[-1];
+            double[,] badMatrix = {{-1}};
             return badMatrix;
         }
     }

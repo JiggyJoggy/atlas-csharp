@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.dll
 /home/jagger/atlas-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/netcoreapp2.1/14-matrix_addition.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/netcoreapp2.1/14-matrix_addition.xml
