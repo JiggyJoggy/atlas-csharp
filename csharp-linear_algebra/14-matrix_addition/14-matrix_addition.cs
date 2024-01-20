@@ -7,7 +7,7 @@ class MatrixMath
         int rows = matrix1.GetLength(0);
         int cols = matrix1.GetLength(1);
 
-        if (rows == matrix2.GetLength(0) && cols == matrix2.GetLength(1))
+        if (rows == matrix2.GetLength(0) && cols == matrix2.GetLength(1) && (rows > 1 && cols > 1))
         {
             double[,] sum = new double[rows, cols];
 
