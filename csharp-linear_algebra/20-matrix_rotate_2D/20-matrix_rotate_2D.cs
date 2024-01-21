@@ -27,7 +27,7 @@ class MatrixMath
                     {
                         sum += matrix[i, k] * mathMatrix[k, j];
                     }
-                    allSum[i, j] = sum;
+                    allSum[i, j] = Math.Round(sum, 2);
                 }
             }
             return allSum;

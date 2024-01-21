@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/netcoreapp2.1/20-matrix_rotate_2D.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/netcoreapp2.1/20-matrix_rotate_2D.dll
 /home/jagger/atlas-csharp/csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/netcoreapp2.1/20-matrix_rotate_2D.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/netcoreapp2.1/20-matrix_rotate_2D.xml
