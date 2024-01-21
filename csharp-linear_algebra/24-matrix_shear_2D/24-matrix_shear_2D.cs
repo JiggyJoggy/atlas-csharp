@@ -9,7 +9,12 @@ class MatrixMath
 
         double[,] shearMatrix;
 
-        if (direction == 'x')
+        if (rows != 2 && cols != 2)
+        {
+            shearMatrix = new double[,] {{-1}};
+            return shearMatrix;
+        }
+        else if (direction == 'x')
         {
             shearMatrix = new double[,] {{1, factor}, {0, 1}};
         }
@@ -19,7 +24,7 @@ class MatrixMath
         }
         else
         {
-            shearMatrix = {{-1}};
+            shearMatrix = new double[,] {{-1}};
             return shearMatrix;
         }
 
@@ -33,9 +38,9 @@ class MatrixMath
 
                 for (int k = 0; k < cols; k++)
                 {
-                    sum += matrix[i, k] * shearMatrix[k, j];
+                    sum += matrix[i, k] * shearMatrix[j, k];
                 }
-                newMatrix[i, j] = sum;
+                newMatrix[i, j] = Math.Round(sum, 2);
             }
         }
         return newMatrix;
