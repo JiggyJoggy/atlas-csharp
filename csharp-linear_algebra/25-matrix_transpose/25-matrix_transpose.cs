@@ -7,13 +7,13 @@ class MatrixMath
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
 
-        if (matrix == {{}})
+        if (rows <= 0)
         {
-            double[,] emptyMatrix = {{}};
+            double[,] emptyMatrix = {};
             return emptyMatrix;
         }
 
-        double[,] newMatrix = new double[rows, cols];
+        double[,] newMatrix = new double[cols, rows];
 
         for (int i = 0; i < rows; i++)
         {

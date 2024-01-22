@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.dll
 /home/jagger/atlas-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.xml
