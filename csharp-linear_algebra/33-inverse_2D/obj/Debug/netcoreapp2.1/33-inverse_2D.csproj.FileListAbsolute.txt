@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-linear_algebra/33-inverse_2D/obj/Debug/netcoreapp2.1/33-inverse_2D.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-linear_algebra/33-inverse_2D/obj/Debug/netcoreapp2.1/33-inverse_2D.dll
 /home/jagger/atlas-csharp/csharp-linear_algebra/33-inverse_2D/obj/Debug/netcoreapp2.1/33-inverse_2D.pdb
+/home/jagger/atlas-csharp/csharp-linear_algebra/33-inverse_2D/bin/Debug/netcoreapp2.1/33-inverse_2D.xml
