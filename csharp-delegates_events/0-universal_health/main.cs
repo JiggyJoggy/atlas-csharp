@@ -4,10 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Player player1 = new Player("Electric Mouse", 500f);
-        Player player2 = new Player("Water Turtle");
+        Player player = new Player(maxHp: -727f);
 
-        player1.PrintHealth();
-        player2.PrintHealth();
+        player.PrintHealth();
     }
 }
