@@ -9,3 +9,4 @@
 /home/jagger/atlas-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.AssemblyInfo.cs
 /home/jagger/atlas-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.dll
 /home/jagger/atlas-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.pdb
+/home/jagger/atlas-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.xml
