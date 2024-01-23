@@ -88,7 +88,7 @@ class Queue<T>
 
         while (current != null)
         {
-            if (typeof(T) == typeof(string))
+            if (typeof(T) == typeof(string) && current.next != null)
             {
                 catValue = (dynamic)catValue + current.value + " ";
             }
