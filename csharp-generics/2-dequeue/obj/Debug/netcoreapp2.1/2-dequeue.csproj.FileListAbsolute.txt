@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.deps.json
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.dll
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.pdb
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.dll
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.pdb
+/home/jagger/atlas-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.xml
