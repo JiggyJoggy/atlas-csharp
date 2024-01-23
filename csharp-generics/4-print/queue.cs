@@ -53,6 +53,22 @@ class Queue<T>
         return head.value;
     }
 
+    public void Print()
+    {
+        Node current = head;
+
+        while (current != null)
+        {
+            Console.WriteLine(current.value);
+            current = current.next;
+        }
+
+        if (head == null)
+        {
+            Console.WriteLine("Queue is empty");
+        }
+    }
+
     public int Count()
     {
         return count;
