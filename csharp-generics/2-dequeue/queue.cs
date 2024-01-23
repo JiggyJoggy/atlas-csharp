@@ -15,6 +15,11 @@ class Queue<T>
             head = newNode;
             tail = newNode;
         }
+        else
+        {
+            tail.next = newNode;
+            tail = newNode;
+        }
         count++;
     }
 
@@ -29,6 +34,11 @@ class Queue<T>
         T value = head.value;
         head = head.next;
         count--;
+
+        if (head == null)
+        {
+            tail = null;
+        }
 
         return value;
     }

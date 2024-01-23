@@ -4,26 +4,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        Queue<int> myIntQ = new Queue<int>();
+        Queue<string> myQ = new Queue<string>();
 
-        myIntQ.Enqueue(100);
-        myIntQ.Enqueue(101);
-        Console.WriteLine("Number of nodes in queue: " + myIntQ.Count());
+        myQ.Enqueue("972");
+        myQ.Enqueue("Market");
+        myQ.Enqueue("Street");
+        myQ.Enqueue("San");
+        myQ.Enqueue("Francisco");
+        myQ.Enqueue("California");
 
-        Console.WriteLine("First value: " + myIntQ.Dequeue());
-        Console.WriteLine("Number of nodes in queue: " + myIntQ.Count());
+        Console.WriteLine("Number of nodes in queue: " + myQ.Count());
+        Console.WriteLine("Value of head node: " + myQ.Dequeue());
+        
+        Console.WriteLine("Number of nodes in queue: " + myQ.Count());
+        Console.WriteLine("Value of head node: " + myQ.Dequeue());
 
-        Console.WriteLine("----------");
-
-        Queue<float> myFloatQ = new Queue<float>();
-
-        myFloatQ.Enqueue(9.8f);
-        Console.WriteLine("Number of nodes in queue: " + myFloatQ.Count());
-
-        Console.WriteLine("First value: " + myFloatQ.Dequeue());
-
-        Console.WriteLine("Number of nodes in queue: " + myFloatQ.Count());
-
-        Console.WriteLine("First value: " + myFloatQ.Dequeue());
+        Console.WriteLine("Number of nodes in queue: " + myQ.Count());
+        Console.WriteLine("Value of head node: " + myQ.Dequeue());
     }
 }
