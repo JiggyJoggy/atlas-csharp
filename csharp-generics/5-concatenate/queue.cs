@@ -71,39 +71,39 @@ class Queue<T>
 
     public T Concatenate()
     {
+        Node current = head;
+        dynamic catValue = default(T);
+
         if (head == null)
         {
             Console.WriteLine("Queue is empty");
             return default(T);
         }
-        
-        if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
+        else if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
         {
             Console.WriteLine("Concatenate is for a queue of Strings or Chars only.");
             return default(T);
         }
-
-        Node current = head;
-        dynamic catValue = default(T);
-
-        while (current != null)
+        else
         {
-            if (typeof(T) == typeof(string) && current.next != null)
+            while (current != null)
             {
-                catValue = (dynamic)catValue + current.value + " ";
-            }
-            else
-            {
-                catValue = (dynamic)catValue + current.value;
-            }
+                if (typeof(T) == typeof(string) && current.next != null)
+                {
+                    catValue = catValue + current.value + " ";
+                }
+                else
+                {
+                    catValue = catValue + current.value;
+                }
 
-            if (typeof(T) == typeof(char))
-            {
-                catValue = (dynamic)catValue + current.value;
+                if (typeof(T) == typeof(char))
+                {
+                    catValue = catValue + current.value;
+                }
+                current = current.next;
             }
-            current = current.next;
         }
-
         return catValue;
     }
 

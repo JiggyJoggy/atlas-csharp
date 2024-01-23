@@ -4,25 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Queue<string> myStrQ = new Queue<string>();
+        Queue<int> myQ = new Queue<int>();
 
-        myStrQ.Enqueue("hello");
-        myStrQ.Enqueue("holberton");
-        myStrQ.Enqueue("school");
+        myQ.Enqueue(8);
+        myQ.Enqueue(6);
+        myQ.Enqueue(7);
+        myQ.Enqueue(5);
+        myQ.Enqueue(3);
 
-        Console.WriteLine(myStrQ.Concatenate());
-
-        Console.WriteLine("----------");
-
-        Queue<int> myIntQ = new Queue<int>();
-        myIntQ.Concatenate();
-
-        Console.WriteLine("----------");
-
-        Queue<char> myCharQ = new Queue<char>();
-        myCharQ.Enqueue('a');
-        myCharQ.Enqueue('b');
-        myCharQ.Enqueue('c');
-        Console.WriteLine(myCharQ.Concatenate());
+        Console.WriteLine(myQ.Concatenate());
     }
 }
