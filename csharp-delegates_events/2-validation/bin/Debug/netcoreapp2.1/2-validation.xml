@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>
+            Setting up the Player
+            </summary>
+        </member>
+        <member name="F:Player.name">
+            <summary>
+            name is to Player's name
+            </summary>
+        </member>
+        <member name="F:Player.maxHp">
+            <summary>
+            maxHp to Player's health
+            </summary>
+        </member>
+        <member name="F:Player.hp">
+            <summary>
+            Player hitpoints
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            Setting up player's name and maxHp
+            hp is set to maxHp at the start
+            </summary>
+            <param name="name"></param>
+            <param name="maxHp"></param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            Method that prints out name of player, hp it has out of maxHp
+            </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>
+            Delegate that calculates heals and damagae
+            takes an arg of a float num
+            </summary>
+            <param name="num"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            Calculates damage to
+            name of player
+            </summary>
+            <param name="damage"></param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            Calculates healing to
+            name of player
+            </summary>
+            <param name="heal"></param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            Validates the Player's HP
+            </summary>
+            <param name="newHp"></param>
+        </member>
+    </members>
+</doc>
