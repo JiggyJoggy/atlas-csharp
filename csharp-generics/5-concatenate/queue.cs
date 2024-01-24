@@ -69,40 +69,31 @@ class Queue<T>
         }
     }
 
-    public T Concatenate()
+    public string Concatenate()
     {
-        Node current = head;
-        dynamic catValue = default(T);
-
         if (head == null)
         {
             Console.WriteLine("Queue is empty");
-            return default(T);
+            return null;
         }
-        else if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
+
+        if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
         {
             Console.WriteLine("Concatenate is for a queue of Strings or Chars only.");
-            return default(T);
+            return null;
         }
-        else
-        {
-            while (current != null)
-            {
-                if (typeof(T) == typeof(string) && current.next != null)
-                {
-                    catValue = catValue + current.value + " ";
-                }
-                else
-                {
-                    catValue = catValue + current.value;
-                }
 
-                if (typeof(T) == typeof(char))
-                {
-                    catValue = catValue + current.value;
-                }
-                current = current.next;
+        string catValue = this.head.value.ToString();
+        Node current = this.head.next;
+
+        while (current != null)
+        {
+            if (typeof(T) == typeof(string))
+            {
+                catValue = catValue + " ";
             }
+            catValue = catValue + current.value;
+            current = current.next;
         }
         return catValue;
     }
