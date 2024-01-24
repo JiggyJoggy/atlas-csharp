@@ -4,12 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Player player = new Player("Electric Mouse");
+        Player player = new Player("Water Turtle");
 
-        player.TakeDamage(25f);
-
-        player.HealDamage(10f);
-
-        player.TakeDamage(-25f);
+        player.TakeDamage(21.3f);
     }
 }

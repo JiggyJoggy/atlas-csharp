@@ -34,8 +34,19 @@ public class Player
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
+    /// <summary>
+    /// Delegate that calculates heals and damagae
+    /// takes an arg of a float num
+    /// </summary>
+    /// <param name="num"></param>
+    /// <returns></returns>
     public delegate float CalculateHealth(float num);
 
+    /// <summary>
+    /// Calculates damage to
+    /// name of player
+    /// </summary>
+    /// <param name="damage"></param>
     public void TakeDamage(float damage)
     {
         if (damage <= 0)
@@ -50,6 +61,11 @@ public class Player
         Console.WriteLine($"{name} takes {damage} damage!");
     }
 
+    /// <summary>
+    /// Calculates healing to
+    /// name of player
+    /// </summary>
+    /// <param name="heal"></param>
     public void HealDamage(float heal)
     {
         if (heal <= 0)
