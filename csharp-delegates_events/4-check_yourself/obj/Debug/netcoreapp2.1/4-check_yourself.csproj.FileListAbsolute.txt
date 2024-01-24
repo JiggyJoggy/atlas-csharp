@@ -1,0 +1,12 @@
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.deps.json
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.runtimeconfig.json
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.runtimeconfig.dev.json
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.dll
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.pdb
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.csprojAssemblyReference.cache
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.csproj.CoreCompileInputs.cache
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.AssemblyInfoInputs.cache
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.AssemblyInfo.cs
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.dll
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.pdb
+/home/jagger/atlas-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.xml
