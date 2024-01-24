@@ -190,8 +190,10 @@ public class Player
         {
             Console.WriteLine("Health has reached zero!");
         }
-        
-        Console.WriteLine("Health is low!");
+        else
+        {
+            Console.WriteLine("Health is low!");
+        }
     }
 
     /// <summary>
